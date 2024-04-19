@@ -1,6 +1,6 @@
 # Stock Dashboard with Power BI and Python Integration
 
-This repository contains a Power BI dashboard designed for analyzing stock data retrieved using the yfinance library in Python. The dashboard allows users to visualize and analyze stock performance for a variety of symbols.
+This repository contains a Power BI dashboard designed for analyzing stock data retrieved using the yfinance library in Python. The dashboard allows users to visualize and analyze stock performance for a variety of stock symbol.
 
 ## Features
 
